@@ -1,0 +1,8 @@
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProject4\PracticeProject4\bin\Debug\PracticeProject4.exe.config
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProject4\PracticeProject4\bin\Debug\PracticeProject4.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProject4\PracticeProject4\bin\Debug\PracticeProject4.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProject4\PracticeProject4\obj\Debug\PracticeProject4.csproj.AssemblyReference.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProject4\PracticeProject4\obj\Debug\PracticeProject4.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProject4\PracticeProject4\obj\Debug\PracticeProject4.csproj.CoreCompileInputs.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProject4\PracticeProject4\obj\Debug\PracticeProject4.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProject4\PracticeProject4\obj\Debug\PracticeProject4.pdb
